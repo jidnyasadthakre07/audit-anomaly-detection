@@ -282,8 +282,8 @@ In a real Big 4 audit engagement, this pipeline would:
 ## 👤 Author
 
 **[Jidnyasa Thakre]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jidnyasathakre/)
-- GitHub: [github.com/yourusername](https://github.com/jidnyasadthakre07/)
+- LinkedIn: [https://www.linkedin.com/in/jidnyasathakre/]
+- GitHub: [https://github.com/jidnyasadthakre07/]
 - Email: jidnyasathakre3@gmail.com
 
 ---
